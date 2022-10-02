@@ -22,7 +22,7 @@
 
 ###
 
-<p>⚔ some of my skills</p>
+<p>🕹 some of my skills</p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
@@ -35,9 +35,9 @@
 
 ###
 
-<p>⚔ Im currently working on this project</p>
+<p>🛠 Im currently working on this project</p>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=luizfbalves&repo=noteme" height="150" alt="stats graph"  />  
+  <img src="https://github-readme-stats.vercel.app/api/pin?hide_title=false&show_icons=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=luizfbalves&repo=noteme" height="150" alt="project"  />  
 </div>
 
 <br clear="both">
