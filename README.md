@@ -37,7 +37,7 @@
 
 <p>🛠 Currently working on this project</p>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin?hide_title=false&show_icons=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=luizfbalves&repo=noteme" height="150" alt="project"  />  
+  <img src="https://github-readme-stats.vercel.app/api/pin?theme=dracula&username=luizfbalves&repo=noteme" height="150" alt="project"  />  
 </div>
 
 <br clear="both">
