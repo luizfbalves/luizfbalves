@@ -35,11 +35,6 @@
 
 ###
 
-<p>🛠 Currently working on this project</p>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin?theme=dracula&username=luizfbalves&repo=noteme" height="150" alt="project"  />  
-</div>
-
 <br clear="both">
 
 ###
