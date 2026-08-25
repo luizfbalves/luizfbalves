@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ORUL<br>🌱 I’m currently learning PROMPT ENGINEERING<br>💬 Ask me about NESTJS
+🔭 I’m currently working on ORUL</br>💬 Ask me about NESTJS
 
 
 ## 🌐 Socials:
